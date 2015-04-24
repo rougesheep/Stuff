@@ -1,0 +1,10 @@
+[Desktop Entry]
+Version=1.0
+Type=Application
+Name=Windows VM
+GenericName=Windows
+Comment=Rdesktop to Windows VM
+Exec=rdesktop -d traveljigsaw.local -u burnea -g 1280x900 -T Windows -a 16 -z -x lan -r disk:Share=/home/aburne/Share -r sound:off windows-vm
+Terminal=false
+Icon=distributor-logo-windows
+StartupNotify=true

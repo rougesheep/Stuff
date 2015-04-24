@@ -1,0 +1,10 @@
+[Desktop Entry]
+Version=1.0
+Type=Application
+Name=RDesktop
+GenericName=Remote Desktop
+Comment=Remote Desktop for Linux
+Exec=rdesktop
+Terminal=true
+Icon=remote-desktop
+StartupNotify=true

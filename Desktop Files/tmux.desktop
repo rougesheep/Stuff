@@ -1,0 +1,11 @@
+[Desktop Entry]
+Name=Tmux
+Comment=Launch tmux in Gnome Terminal
+Keywords=shell;prompt;command;commandline;
+Exec=gnome-terminal --hide-menubar -e tmux
+Icon=utilities-terminal
+Type=Application
+Categories=GNOME;GTK;System;TerminalEmulator;
+StartupNotify=true
+X-GNOME-SingleWindow=false
+X-Desktop-File-Install-Version=0.22
