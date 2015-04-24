@@ -1,0 +1,1 @@
+desktop-file-install --dir=/home/burnea/.local/share/applications/ $1
