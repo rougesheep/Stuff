@@ -1,0 +1,10 @@
+[Desktop Entry]
+Version=1.0
+Type=Application
+Name=Cluster SSH
+GenericName=Cluster SSH
+Comment=Connect to multiple hosts simultaneusly
+Exec=cssh
+Terminal=false
+Icon=gksu-root-terminal
+StartupNotify=true
